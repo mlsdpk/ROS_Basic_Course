@@ -3,6 +3,8 @@ All the notebooks, projects, and exercises are inside this repository.
 
 Download it into your local machine or open the notebooks from http://nbviewer.jupyter.org/
 
+If you want to open the notebooks offline, you need to install jupyter notebook first.
+
 The course has 7 modules, 1 bonus module and 3 projects using arduino:
 
 Module 1 - Installation Setups  
